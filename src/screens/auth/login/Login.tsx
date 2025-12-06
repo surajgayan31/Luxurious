@@ -16,6 +16,8 @@ import navigationService from '../../../routes/navigationService';
 import { routes } from '../../../routes/stacks';
 import { validateMethod } from '../../../component/validationMethod/validationMethods';
 
+
+
 const Login = () => {
 
    
@@ -154,3 +156,8 @@ const Login = () => {
 };
 
 export default Login;
+
+
+
+
+
